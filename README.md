@@ -9,10 +9,10 @@ With 16 years of IT experience across Australian government, financial services,
 
 My current focus is developing AI-driven solutions, exploring responsible AI assurance and building automation frameworks that help organisations improve efficiency, reliability and security.
 
-Company:** [www.zfconsulting.com.au](https://www.zfconsulting.com.au)  
-LinkedIn:** [Zee Hashmi](https://www.linkedin.com/in/zeehashmi/)  
-GitHub:** [ZeeHashmi](https://github.com/ZeeHashmi)  
-Location:** Brisbane, Queensland, Australia
+Company: [www.zfconsulting.com.au](https://www.zfconsulting.com.au)  
+LinkedIn: [Zee Hashmi](https://www.linkedin.com/in/zeehashmi/)  
+GitHub: [ZeeHashmi](https://github.com/ZeeHashmi)  
+Location: Brisbane, Queensland, Australia
 
 ---
 
