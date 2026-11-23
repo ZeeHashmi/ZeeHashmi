@@ -56,7 +56,7 @@ Some projects are prototypes or under active development.
 
 ---
 
-## 🛡️ AI Safety & Assurance
+## AI Safety & Assurance
 
 I am working towards practical AI safety and assurance capabilities to help organisations identify and assess risks associated with AI systems.
 
@@ -93,7 +93,7 @@ I also actively develop my practical cybersecurity knowledge through hands-on le
 
 ---
 
-## 🧪 Quality Engineering & Automation
+## Quality Engineering & Automation
 
 I bring extensive experience in enterprise software quality engineering, test automation and performance testing.
 
@@ -109,7 +109,7 @@ I bring extensive experience in enterprise software quality engineering, test au
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
 | Area | Technologies |
 |---|---|
