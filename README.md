@@ -34,7 +34,7 @@ Visit: [ZF Consulting Services](https://www.zfconsulting.com.au)
 
 ---
 
-## 🤖 AI Automation Projects
+## AI Automation Projects
 
 I am developing AI-powered automation solutions that bring together intelligent task processing, workflow automation and software validation.
 
